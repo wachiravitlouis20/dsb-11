@@ -17,7 +17,7 @@ I love 'R programming' . (in line code)
 
 ## Code Block
 ```sql
-SELECT "invoice_id" FROM dex;
+SELECT invoice_id FROM dex;
 ```
 
   ## Shiba
