@@ -1,4 +1,7 @@
 # Data Science Bootcamp Batch 11
+
+This Class is awesome!!
+
 Data science Bootcamp Projects
 
 This bootcamp runs about 4 month, 10 sprints
@@ -12,7 +15,7 @@ This bootcamp runs about 4 month, 10 sprints
 - Google Looker 
 - Machine Learing
 - Python for Data Analyst
-
+- Dashboard
 I love 'R programming' . (in line code)
 
 ## Code Block
